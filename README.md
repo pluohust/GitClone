@@ -6,3 +6,5 @@
 截图如下
 
 ![](clone.png)
+
+**这是实现使用GitHub作为markdown记事本仓库的第一步工作**
